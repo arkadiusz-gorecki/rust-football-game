@@ -1,6 +1,8 @@
 # Piłkarzyki
-![](https://i.imgur.com/111ChMK.png)
+This project has been archived, development has moved to: https://github.com/wasm-peers.
+
 ## Opis
+![](https://i.imgur.com/111ChMK.png)
 Dwuwymiarowa gra rozgrywającą się w czasie rzeczywistym. Gracze podzieleni na dwie drużyny rozgrywają mecz z zasadami zbliżonymi do piłki nożnej na boisku z dwoma bramkami. Celem gry jest zdobycie trzech bramek zanim zrobi to drużyna przeciwna.
 
 ## Obecna funkcjonalność
